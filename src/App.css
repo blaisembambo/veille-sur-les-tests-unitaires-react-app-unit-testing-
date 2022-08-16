@@ -1,0 +1,15 @@
+.counter-comp-wrap{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.counter-comp-wrap * {
+  text-align: center;
+}
+
+button{
+  padding: 10px;
+  margin: 10px;
+}
